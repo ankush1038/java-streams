@@ -1,4 +1,4 @@
-package com.bridgelabz.streams;
+package com.bridgelabz.streams.FileReadWrite;
 
 import java.io.*;
 
