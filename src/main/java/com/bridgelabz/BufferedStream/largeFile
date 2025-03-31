@@ -1,0 +1,984 @@
+This dataset contains detailed specifications and official launch prices of various mobile phone models from different companies. It provides insights into smartphone hardware, pricing trends, and brand competitiveness across multiple countries. The dataset includes key features such as RAM, camera specifications, battery capacity, processor details, and screen size.
+
+One important aspect of this dataset is the pricing information. The recorded prices represent the official launch prices of the mobile phones at the time they were first introduced in the market. Prices vary based on the country and the launch period, meaning older models reflect their original launch prices, while newer models include their most recent launch prices. This makes the dataset valuable for studying price trends over time and comparing smartphone affordability across different regions.
+
+Features:
+
+Company Name: The brand or manufacturer of the mobile phone.
+Model Name: The specific model of the smartphone.
+Mobile Weight: The weight of the mobile phone (in grams).
+RAM: The amount of Random Access Memory (RAM) in the device (in GB).
+Front Camera: The resolution of the front (selfie) camera (in MP).
+Back Camera: The resolution of the primary rear camera (in MP).
+Processor: The chipset or processor used in the device.
+Battery Capacity: The battery size of the smartphone (in mAh).
+Screen Size: The display size of the smartphone (in inches).
+Launched Price: (Pakistan, India, China, USA, Dubai): The official launch price of the mobile in the respective country at the time of its release. Prices vary based on the year the mobile was launched.
+Launched Year: The year the mobile phone was officially launched.
+
+View less
+Usability
+10.00
+
+License
+Apache 2.0
+
+Expected update frequency
+Annually
+
+Tags
+Computer Science
+Data Visualization
+Exploratory Data Analysis
+Science and Technology
+Mobile and Wireless
+Mobiles Dataset (2025).csv(140.32 kB)
+
+10 of 15 columns
+
+About this file
+
+Suggest Edits
+This is Mobiles Dataset 2025 Data.csv
+
+
+Company Name
+Company Name
+
+
+Model Name
+Model Name
+
+
+Mobile Weight
+Mobile Weight
+
+
+RAM
+RAM
+
+
+Front Camera
+Front Camera
+
+
+Back Camera
+Back Camera
+
+
+Processor
+Processor
+
+
+Battery Capacity
+Battery Capacity
+
+
+Screen Size
+Screen Size
+
+
+Launched Price (Pakistan)
+Launched Price Pakistan
+
+Oppo
+14%
+Apple
+10%
+Other (704)
+76%
+908
+
+unique values
+190g
+7%
+195g
+7%
+Other (798)
+86%
+8GB
+33%
+6GB
+22%
+Other (416)
+45%
+16MP
+23%
+32MP
+22%
+Other (512)
+55%
+50MP
+20%
+13MP
+8%
+Other (672)
+72%
+Snapdragon 8 Gen 2
+3%
+MediaTek Dimensity 810
+2%
+Other (878)
+94%
+5,000mAh
+21%
+5000mAh
+10%
+Other (637)
+68%
+6.7 inches
+13%
+6.5 inches
+8%
+Other (730)
+78%
+PKR 79,999
+4%
+PKR 89,999
+4%
+Other (853)
+92%
+Apple
+iPhone 16 128GB
+174g
+6GB
+12MP
+48MP
+A17 Bionic
+3,600mAh
+6.1 inches
+PKR 224,999
+Apple
+iPhone 16 256GB
+174g
+6GB
+12MP
+48MP
+A17 Bionic
+3,600mAh
+6.1 inches
+PKR 234,999
+Apple
+iPhone 16 512GB
+174g
+6GB
+12MP
+48MP
+A17 Bionic
+3,600mAh
+6.1 inches
+PKR 244,999
+Apple
+iPhone 16 Plus 128GB
+203g
+6GB
+12MP
+48MP
+A17 Bionic
+4,200mAh
+6.7 inches
+PKR 249,999
+Apple
+iPhone 16 Plus 256GB
+203g
+6GB
+12MP
+48MP
+A17 Bionic
+4,200mAh
+6.7 inches
+PKR 259,999
+Apple
+iPhone 16 Plus 512GB
+203g
+6GB
+12MP
+48MP
+A17 Bionic
+4,200mAh
+6.7 inches
+PKR 274,999
+Apple
+iPhone 16 Pro 128GB
+206g
+6GB
+12MP / 4K
+50MP + 12MP
+A17 Pro
+4,400mAh
+6.1 inches
+PKR 284,999
+Apple
+iPhone 16 Pro 256GB
+206g
+8GB
+12MP / 4K
+50MP + 12MP
+A17 Pro
+4,400mAh
+6.1 inches
+PKR 294,999
+Apple
+iPhone 16 Pro 512GB
+206g
+8GB
+12MP / 4K
+50MP + 12MP
+A17 Pro
+4,400mAh
+6.1 inches
+PKR 314,999
+Apple
+iPhone 16 Pro Max 128GB
+221g
+6GB
+12MP / 4K
+48MP + 12MP
+A17 Pro
+4,500mAh
+6.7 inches
+PKR 314,999
+Apple
+iPhone 16 Pro Max 256GB
+221g
+8GB
+12MP / 4K
+48MP +
+This dataset contains detailed specifications and official launch prices of various mobile phone models from different companies. It provides insights into smartphone hardware, pricing trends, and brand competitiveness across multiple countries. The dataset includes key features such as RAM, camera specifications, battery capacity, processor details, and screen size.
+
+One important aspect of this dataset is the pricing information. The recorded prices represent the official launch prices of the mobile phones at the time they were first introduced in the market. Prices vary based on the country and the launch period, meaning older models reflect their original launch prices, while newer models include their most recent launch prices. This makes the dataset valuable for studying price trends over time and comparing smartphone affordability across different regions.
+
+Features:
+
+Company Name: The brand or manufacturer of the mobile phone.
+Model Name: The specific model of the smartphone.
+Mobile Weight: The weight of the mobile phone (in grams).
+RAM: The amount of Random Access Memory (RAM) in the device (in GB).
+Front Camera: The resolution of the front (selfie) camera (in MP).
+Back Camera: The resolution of the primary rear camera (in MP).
+Processor: The chipset or processor used in the device.
+Battery Capacity: The battery size of the smartphone (in mAh).
+Screen Size: The display size of the smartphone (in inches).
+Launched Price: (Pakistan, India, China, USA, Dubai): The official launch price of the mobile in the respective country at the time of its release. Prices vary based on the year the mobile was launched.
+Launched Year: The year the mobile phone was officially launched.
+
+View less
+Usability
+10.00
+
+License
+Apache 2.0
+
+Expected update frequency
+Annually
+
+Tags
+Computer Science
+Data Visualization
+Exploratory Data Analysis
+Science and Technology
+Mobile and Wireless
+Mobiles Dataset (2025).csv(140.32 kB)
+
+10 of 15 columns
+
+About this file
+
+Suggest Edits
+This is Mobiles Dataset 2025 Data.csv
+
+
+Company Name
+Company Name
+
+
+Model Name
+Model Name
+
+
+Mobile Weight
+Mobile Weight
+
+
+RAM
+RAM
+
+
+Front Camera
+Front Camera
+
+
+Back Camera
+Back Camera
+
+
+Processor
+Processor
+
+
+Battery Capacity
+Battery Capacity
+
+
+Screen Size
+Screen Size
+
+
+Launched Price (Pakistan)
+Launched Price Pakistan
+
+Oppo
+14%
+Apple
+10%
+Other (704)
+76%
+908
+
+unique values
+190g
+7%
+195g
+7%
+Other (798)
+86%
+8GB
+33%
+6GB
+22%
+Other (416)
+45%
+16MP
+23%
+32MP
+22%
+Other (512)
+55%
+50MP
+20%
+13MP
+8%
+Other (672)
+72%
+Snapdragon 8 Gen 2
+3%
+MediaTek Dimensity 810
+2%
+Other (878)
+94%
+5,000mAh
+21%
+5000mAh
+10%
+Other (637)
+68%
+6.7 inches
+13%
+6.5 inches
+8%
+Other (730)
+78%
+PKR 79,999
+4%
+PKR 89,999
+4%
+Other (853)
+92%
+Apple
+iPhone 16 128GB
+174g
+6GB
+12MP
+48MP
+A17 Bionic
+3,600mAh
+6.1 inches
+PKR 224,999
+Apple
+iPhone 16 256GB
+174g
+6GB
+12MP
+48MP
+A17 Bionic
+3,600mAh
+6.1 inches
+PKR 234,999
+Apple
+iPhone 16 512GB
+174g
+6GB
+12MP
+48MP
+A17 Bionic
+3,600mAh
+6.1 inches
+PKR 244,999
+Apple
+iPhone 16 Plus 128GB
+203g
+6GB
+12MP
+48MP
+A17 Bionic
+4,200mAh
+6.7 inches
+PKR 249,999
+Apple
+iPhone 16 Plus 256GB
+203g
+6GB
+12MP
+48MP
+A17 Bionic
+4,200mAh
+6.7 inches
+PKR 259,999
+Apple
+iPhone 16 Plus 512GB
+203g
+6GB
+12MP
+48MP
+A17 Bionic
+4,200mAh
+6.7 inches
+PKR 274,999
+Apple
+iPhone 16 Pro 128GB
+206g
+6GB
+12MP / 4K
+50MP + 12MP
+A17 Pro
+4,400mAh
+6.1 inches
+PKR 284,999
+Apple
+iPhone 16 Pro 256GB
+206g
+8GB
+12MP / 4K
+50MP + 12MP
+A17 Pro
+4,400mAh
+6.1 inches
+PKR 294,999
+Apple
+iPhone 16 Pro 512GB
+206g
+8GB
+12MP / 4K
+50MP + 12MP
+A17 Pro
+4,400mAh
+6.1 inches
+PKR 314,999
+Apple
+iPhone 16 Pro Max 128GB
+221g
+6GB
+12MP / 4K
+48MP + 12MP
+A17 Pro
+4,500mAh
+6.7 inches
+PKR 314,999
+Apple
+iPhone 16 Pro Max 256GB
+221g
+8GB
+12MP / 4K
+48MP +
+This dataset contains detailed specifications and official launch prices of various mobile phone models from different companies. It provides insights into smartphone hardware, pricing trends, and brand competitiveness across multiple countries. The dataset includes key features such as RAM, camera specifications, battery capacity, processor details, and screen size.
+
+One important aspect of this dataset is the pricing information. The recorded prices represent the official launch prices of the mobile phones at the time they were first introduced in the market. Prices vary based on the country and the launch period, meaning older models reflect their original launch prices, while newer models include their most recent launch prices. This makes the dataset valuable for studying price trends over time and comparing smartphone affordability across different regions.
+
+Features:
+
+Company Name: The brand or manufacturer of the mobile phone.
+Model Name: The specific model of the smartphone.
+Mobile Weight: The weight of the mobile phone (in grams).
+RAM: The amount of Random Access Memory (RAM) in the device (in GB).
+Front Camera: The resolution of the front (selfie) camera (in MP).
+Back Camera: The resolution of the primary rear camera (in MP).
+Processor: The chipset or processor used in the device.
+Battery Capacity: The battery size of the smartphone (in mAh).
+Screen Size: The display size of the smartphone (in inches).
+Launched Price: (Pakistan, India, China, USA, Dubai): The official launch price of the mobile in the respective country at the time of its release. Prices vary based on the year the mobile was launched.
+Launched Year: The year the mobile phone was officially launched.
+
+View less
+Usability
+10.00
+
+License
+Apache 2.0
+
+Expected update frequency
+Annually
+
+Tags
+Computer Science
+Data Visualization
+Exploratory Data Analysis
+Science and Technology
+Mobile and Wireless
+Mobiles Dataset (2025).csv(140.32 kB)
+
+10 of 15 columns
+
+About this file
+
+Suggest Edits
+This is Mobiles Dataset 2025 Data.csv
+
+
+Company Name
+Company Name
+
+
+Model Name
+Model Name
+
+
+Mobile Weight
+Mobile Weight
+
+
+RAM
+RAM
+
+
+Front Camera
+Front Camera
+
+
+Back Camera
+Back Camera
+
+
+Processor
+Processor
+
+
+Battery Capacity
+Battery Capacity
+
+
+Screen Size
+Screen Size
+
+
+Launched Price (Pakistan)
+Launched Price Pakistan
+
+Oppo
+14%
+Apple
+10%
+Other (704)
+76%
+908
+
+unique values
+190g
+7%
+195g
+7%
+Other (798)
+86%
+8GB
+33%
+6GB
+22%
+Other (416)
+45%
+16MP
+23%
+32MP
+22%
+Other (512)
+55%
+50MP
+20%
+13MP
+8%
+Other (672)
+72%
+Snapdragon 8 Gen 2
+3%
+MediaTek Dimensity 810
+2%
+Other (878)
+94%
+5,000mAh
+21%
+5000mAh
+10%
+Other (637)
+68%
+6.7 inches
+13%
+6.5 inches
+8%
+Other (730)
+78%
+PKR 79,999
+4%
+PKR 89,999
+4%
+Other (853)
+92%
+Apple
+iPhone 16 128GB
+174g
+6GB
+12MP
+48MP
+A17 Bionic
+3,600mAh
+6.1 inches
+PKR 224,999
+Apple
+iPhone 16 256GB
+174g
+6GB
+12MP
+48MP
+A17 Bionic
+3,600mAh
+6.1 inches
+PKR 234,999
+Apple
+iPhone 16 512GB
+174g
+6GB
+12MP
+48MP
+A17 Bionic
+3,600mAh
+6.1 inches
+PKR 244,999
+Apple
+iPhone 16 Plus 128GB
+203g
+6GB
+12MP
+48MP
+A17 Bionic
+4,200mAh
+6.7 inches
+PKR 249,999
+Apple
+iPhone 16 Plus 256GB
+203g
+6GB
+12MP
+48MP
+A17 Bionic
+4,200mAh
+6.7 inches
+PKR 259,999
+Apple
+iPhone 16 Plus 512GB
+203g
+6GB
+12MP
+48MP
+A17 Bionic
+4,200mAh
+6.7 inches
+PKR 274,999
+Apple
+iPhone 16 Pro 128GB
+206g
+6GB
+12MP / 4K
+50MP + 12MP
+A17 Pro
+4,400mAh
+6.1 inches
+PKR 284,999
+Apple
+iPhone 16 Pro 256GB
+206g
+8GB
+12MP / 4K
+50MP + 12MP
+A17 Pro
+4,400mAh
+6.1 inches
+PKR 294,999
+Apple
+iPhone 16 Pro 512GB
+206g
+8GB
+12MP / 4K
+50MP + 12MP
+A17 Pro
+4,400mAh
+6.1 inches
+PKR 314,999
+Apple
+iPhone 16 Pro Max 128GB
+221g
+6GB
+12MP / 4K
+48MP + 12MP
+A17 Pro
+4,500mAh
+6.7 inches
+PKR 314,999
+Apple
+iPhone 16 Pro Max 256GB
+221g
+8GB
+12MP / 4K
+48MP +
+This dataset contains detailed specifications and official launch prices of various mobile phone models from different companies. It provides insights into smartphone hardware, pricing trends, and brand competitiveness across multiple countries. The dataset includes key features such as RAM, camera specifications, battery capacity, processor details, and screen size.
+
+One important aspect of this dataset is the pricing information. The recorded prices represent the official launch prices of the mobile phones at the time they were first introduced in the market. Prices vary based on the country and the launch period, meaning older models reflect their original launch prices, while newer models include their most recent launch prices. This makes the dataset valuable for studying price trends over time and comparing smartphone affordability across different regions.
+
+Features:
+
+Company Name: The brand or manufacturer of the mobile phone.
+Model Name: The specific model of the smartphone.
+Mobile Weight: The weight of the mobile phone (in grams).
+RAM: The amount of Random Access Memory (RAM) in the device (in GB).
+Front Camera: The resolution of the front (selfie) camera (in MP).
+Back Camera: The resolution of the primary rear camera (in MP).
+Processor: The chipset or processor used in the device.
+Battery Capacity: The battery size of the smartphone (in mAh).
+Screen Size: The display size of the smartphone (in inches).
+Launched Price: (Pakistan, India, China, USA, Dubai): The official launch price of the mobile in the respective country at the time of its release. Prices vary based on the year the mobile was launched.
+Launched Year: The year the mobile phone was officially launched.
+
+View less
+Usability
+10.00
+
+License
+Apache 2.0
+
+Expected update frequency
+Annually
+
+Tags
+Computer Science
+Data Visualization
+Exploratory Data Analysis
+Science and Technology
+Mobile and Wireless
+Mobiles Dataset (2025).csv(140.32 kB)
+
+10 of 15 columns
+
+About this file
+
+Suggest Edits
+This is Mobiles Dataset 2025 Data.csv
+
+
+Company Name
+Company Name
+
+
+Model Name
+Model Name
+
+
+Mobile Weight
+Mobile Weight
+
+
+RAM
+RAM
+
+
+Front Camera
+Front Camera
+
+
+Back Camera
+Back Camera
+
+
+Processor
+Processor
+
+
+Battery Capacity
+Battery Capacity
+
+
+Screen Size
+Screen Size
+
+
+Launched Price (Pakistan)
+Launched Price Pakistan
+
+Oppo
+14%
+Apple
+10%
+Other (704)
+76%
+908
+
+unique values
+190g
+7%
+195g
+7%
+Other (798)
+86%
+8GB
+33%
+6GB
+22%
+Other (416)
+45%
+16MP
+23%
+32MP
+22%
+Other (512)
+55%
+50MP
+20%
+13MP
+8%
+Other (672)
+72%
+Snapdragon 8 Gen 2
+3%
+MediaTek Dimensity 810
+2%
+Other (878)
+94%
+5,000mAh
+21%
+5000mAh
+10%
+Other (637)
+68%
+6.7 inches
+13%
+6.5 inches
+8%
+Other (730)
+78%
+PKR 79,999
+4%
+PKR 89,999
+4%
+Other (853)
+92%
+Apple
+iPhone 16 128GB
+174g
+6GB
+12MP
+48MP
+A17 Bionic
+3,600mAh
+6.1 inches
+PKR 224,999
+Apple
+iPhone 16 256GB
+174g
+6GB
+12MP
+48MP
+A17 Bionic
+3,600mAh
+6.1 inches
+PKR 234,999
+Apple
+iPhone 16 512GB
+174g
+6GB
+12MP
+48MP
+A17 Bionic
+3,600mAh
+6.1 inches
+PKR 244,999
+Apple
+iPhone 16 Plus 128GB
+203g
+6GB
+12MP
+48MP
+A17 Bionic
+4,200mAh
+6.7 inches
+PKR 249,999
+Apple
+iPhone 16 Plus 256GB
+203g
+6GB
+12MP
+48MP
+A17 Bionic
+4,200mAh
+6.7 inches
+PKR 259,999
+Apple
+iPhone 16 Plus 512GB
+203g
+6GB
+12MP
+48MP
+A17 Bionic
+4,200mAh
+6.7 inches
+PKR 274,999
+Apple
+iPhone 16 Pro 128GB
+206g
+6GB
+12MP / 4K
+50MP + 12MP
+A17 Pro
+4,400mAh
+6.1 inches
+PKR 284,999
+Apple
+iPhone 16 Pro 256GB
+206g
+8GB
+12MP / 4K
+50MP + 12MP
+A17 Pro
+4,400mAh
+6.1 inches
+PKR 294,999
+Apple
+iPhone 16 Pro 512GB
+206g
+8GB
+12MP / 4K
+50MP + 12MP
+A17 Pro
+4,400mAh
+6.1 inches
+PKR 314,999
+Apple
+iPhone 16 Pro Max 128GB
+221g
+6GB
+12MP / 4K
+48MP + 12MP
+A17 Pro
+4,500mAh
+6.7 inches
+PKR 314,999
+Apple
+iPhone 16 Pro Max 256GB
+221g
+8GB
+12MP / 4K
+48MP +
