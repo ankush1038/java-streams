@@ -1,4 +1,4 @@
-package com.bridgelabz.BufferedStream;
+package com.bridgelabz.streams.BufferedStream;
 
 import java.io.*;
 
